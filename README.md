@@ -9,3 +9,12 @@
 - 💬 Ask me about: Amazon AWS, automated disaster recovery, Custom FPV Drone Builds, or 3D Printer Technology.
 
 - ⚡ Fun fact: When not architecting cloud environments or building FPV drones, I'm likely optimizing my custom 3D printer enclosure.
+
+### Connect with me
+
+
+[<img align="left" alt="antonbabenko | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/antonbabenko
