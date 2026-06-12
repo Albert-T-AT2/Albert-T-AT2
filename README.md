@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: Amazon AWS, automated disaster recovery, Custom FPV Drone Builds, or 3D Printer Technology.
 
-- ⚡ Fun fact: When not architecting cloud environments or building FPV drones, I'm likely optimizing my custom 3D printer enclosure.
+- ⚡ Fun fact: When not architecting cloud environments or building FPV drones, I'm likely optimizing custom 3D printer solutions.
 
 ### Connect with me
 
