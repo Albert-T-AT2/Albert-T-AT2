@@ -1,4 +1,4 @@
-# Hi 👋, I'm Albert_T (aka AT2)
+# Hi 👋, I'm Albert_T (AT2)
 - Cybersecurity, Cloud Architecture, FPV Drone Engineering, 3D Printer Solutions, Micro-Soldering | South Florida
 
 ![image](https://github.com/Albert-T-AT2/Albert-T-AT2/blob/main/copy_E555A285-4805-4021-8187-8097B4531DBD.GIF?raw=true)
