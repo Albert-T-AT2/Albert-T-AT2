@@ -1,15 +1,15 @@
 # Hi 👋, I'm Albert_T (aka AT2)
 - Cybersecurity, Cloud Architecture, FPV Drone Engineering, 3D Printer Solutions, Micro-Soldering | South Florida
 
-![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anY0NWJnYTVpd3h2cnM2ODRhcmFpc3d0dmE2NHpsaWEyYmdyMDF4MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/B1xUp52rUnrv1Leakw/giphy.gif)
+![image](https://github.com/Albert-T-AT2/Albert-T-AT2/blob/main/copy_E555A285-4805-4021-8187-8097B4531DBD.GIF?raw=true)
 
 ---
 ## Work & Interests
 - 🔭 I’m currently working on: Project like (Secure Home Lab + Local LLMs setup) and (Other projects related to AWS Community Group West Palm beach)
 
-- 🌱 I’m currently learning: Advanced VPC design, multi-cloud environment,Linux, Docker, Terraform and conversational German hehe.
+- 🌱 I’m currently learning: Advanced VPC design, multi-cloud environment,Linux, Docker, Terraform and conversational German.
 
-- 💬 Ask me about: Amazon AWS, automated disaster recovery, Custom FPV Drone Builds, or 3D Printer Technology.
+- 💬 Ask me about: Amazon AWS, automated disaster recovery, Microsoldering, Custom FPV Drone Builds, or 3D Printer Technology.
 
 - ⚡ Fun fact: When not architecting cloud environments or building FPV drones, I'm likely optimizing custom 3D printer solutions.
 
