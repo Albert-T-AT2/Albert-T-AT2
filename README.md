@@ -21,16 +21,6 @@
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,theme=light)](https://skillicons.dev)
 
----
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-T-AT2&show_icons=true&theme=gruvbox)
-
 
 ---
 ## Links
